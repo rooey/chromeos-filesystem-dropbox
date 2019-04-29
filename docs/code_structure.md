@@ -12,7 +12,7 @@ This document describes you code structure of this software. Mainly, I write dow
 * [/src/styles](https://github.com/yoichiro/chromeos-filesystem-dropbox/tree/master/src/styles) - There is one css style sheet definition file.
 * [/docs](https://github.com/yoichiro/chromeos-filesystem-dropbox/tree/master/docs) - Currently, there is one image file which is referenced by the README.md file.
 
-At least, if you are a programmer, first you should enter the /app/scripts directory and see each JavaScript files to understand this app's behaviors.
+At least, if you are a programmer, first you should enter the /src/scripts directory and see each JavaScript files to understand this app's behaviors.
 
 # Files
 
